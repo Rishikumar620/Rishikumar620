@@ -1,16 +1,24 @@
-<h1 align="center">Hello,there I'm Rishi Kumar</h1>
-<h3 align="center">A passionate | WEB-DEVELOPER | JAVA PROGRAMMER |  📚 Learning something new every day!</h3>
-<h3 align="center">💡 Always exploring new technologies and improving my skills. </h3>
-<h3 align="center">🚀 Currently diving deeper into Java Development.</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&background=000000&center=true&vCenter=true&width=700&lines=Hello%2C+there!+I'm+RISHI+KUMAR.;An+Exploring+Developer+From+CGU." alt="Typing Animation" />
+</h1>
+
+
+<h3 align="center">A passionate | WEB-DEVELOPER | JAVA PROGRAMMER |  </h3>
+<h3 align="center"> 💡 Always exploring new technologies and improving my skills.</h3>
+<h3 align="center"> 🚀 Currently diving deeper into Java Development.</h3>
 <h3 align="center"> 📚 Learning something new every day!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikumar620&label=Profile%20views&color=0e75b6&style=flat" alt="rishikumar620" /> </p>
 
 - 🔭 I’m currently working on **🔹 Enhancing my Java programming skills**
 
-- 🌱 I’m currently learning **🔹 Building exciting web development projects using HTML, CSS, and Bootstrap 🔹 Exploring Data Structures & Algorithms for better problem-solving**
+- 🌱 I’m currently learning **🔹 Building exciting web development projects using HTML, CSS, and Bootstrap  🔹 Exploring Data Structures & Algorithms for better problem-solving
 
-- 👨‍💻 All of my projects are available at [MY REPOSITORIES](MY REPOSITORIES)
+- 👨‍💻 All of my projects are available at  "https://github.com/Rishikumar620?tab=repositories
 
 - 📫 How to reach me **rishi.k.r620@gmail.com**
 
