@@ -1,5 +1,8 @@
 <h1 align="center">Hello,there I'm Rishi Kumar</h1>
-<h3 align="center">A passionate | WEB-DEVELOPER | JAVA PROGRAMMER | 💡 Always exploring new technologies and improving my skills. 🚀 Currently diving deeper into Java Development. 📚 Learning something new every day!</h3>
+<h3 align="center">A passionate | WEB-DEVELOPER | JAVA PROGRAMMER |  📚 Learning something new every day!</h3>
+<h3 align="center">💡 Always exploring new technologies and improving my skills. </h3>
+<h3 align="center">🚀 Currently diving deeper into Java Development.</h3>
+<h3 align="center"> 📚 Learning something new every day!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikumar620&label=Profile%20views&color=0e75b6&style=flat" alt="rishikumar620" /> </p>
 
